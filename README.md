@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub!</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/YOfZkiEhrioAAAAC/mark-zuckerberg-face-filters-instagram.gif" alt="Zuck Nice Job" />
+  <img src="https://media.tenor.com/Vt4A2IaN4-EAAAAM/mark-zuckerberg-face-filters.gif" alt="Zuck Face Filters" />
 </p>
 
 <p align="center"><b>Baby dev, delulu enough to be the next Zuck :)</b></p>
