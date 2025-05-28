@@ -1,9 +1,8 @@
-**"Living in exciting times"**   <img src="https://www.rustacean.net/assets/rustacean-orig-noshadow.svg" width="40"/>
+  <img src="https://www.rustacean.net/assets/rustacean-orig-noshadow.svg" width="40"/>
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">"Living in exciting times"</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
