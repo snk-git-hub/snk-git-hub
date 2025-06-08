@@ -17,3 +17,6 @@ PostgreSQL, MongoDB, Redis, Firebase
 
 Cloud & DevOps (Just Hatched):
 AWS (EC2, S3), Firebase, Docker, Git
+
+
+ A curious duck who tried spinning webs but now dives deep — aiming to become a whale 🐳 in the ocean of core development.
