@@ -1,3 +1,19 @@
 
 # Just a duck floating in the open-source ocean — paddling through code, quacking out ideas, and leaving ripples of innovation.
 🌊 Still finding my way, but always moving forward.
+
+🐣 What This Duck Knows (So Far)
+Languages (Can Quack a Bit):
+C/C++, Python, JavaScript/TypeScript, Rust
+
+Frontend (Splashing Around In):
+React.js, Tailwind CSS
+
+Backend (Still Learning to Paddle):
+Node.js, Express.js, Django, Flask, FastAPI, REST APIs, WebSockets
+
+Databases (Pecked at These):
+PostgreSQL, MongoDB, Redis, Firebase
+
+Cloud & DevOps (Just Hatched):
+AWS (EC2, S3), Firebase, Docker, Git
