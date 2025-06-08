@@ -1,5 +1,4 @@
-
-# Just a duck floating in the open-source ocean — paddling through code, quacking out ideas, and leaving ripples of innovation.
+🐤 Just a duck floating in the open-source ocean — paddling through code, quacking out ideas, and leaving ripples of innovation.
 🌊 Still finding my way, but always moving forward.
 
 🐣 What This Duck Knows (So Far)
@@ -18,5 +17,6 @@ PostgreSQL, MongoDB, Redis, Firebase
 Cloud & DevOps (Just Hatched):
 AWS (EC2, S3), Firebase, Docker, Git
 
+🐤 I can quack better in C++ — a duck diving deeper, leaving web dev behind to swim with the big fish in core development.
 
- A curious duck who tried spinning webs but now dives deep — aiming to become a whale 🐳 in the ocean of core development!
+A curious duck who tried spinning webs but now dives deep — aiming to become a whale 🐳 in the ocean of core development!
