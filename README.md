@@ -10,7 +10,7 @@
  Python, JavaScript/TypeScript, Rust
 
 * **Frontend (Splashing Around In):**
-  React.js, Tailwind CSS
+  React.js, next js ,Tailwind CSS
 
 * **Backend (Still Learning to Paddle):**
   Node.js, Express.js, Django, Flask, FastAPI, REST APIs, WebSockets
