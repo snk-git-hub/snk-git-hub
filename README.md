@@ -25,7 +25,7 @@
 
 > 🐤 I can quack better in C/C++ — a duck diving deeper, leaving web dev behind to swim with the big fish in core development.
 >
-> A curious duck who tried spinning webs but now dives deep — aiming to become a whale 🐳 in the ocean of core development!
+> A curious duck who tried spinning webs but now dives deep — aiming to become a whale 🐳 in the ocean of core development!!!!!
 
 
 
