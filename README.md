@@ -1,3 +1,2 @@
 ///
-Век живи — век учись.
-"Live for a century — learn for a century"
+“What I cannot create, I do not understand”.
