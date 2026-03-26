@@ -1,5 +1,5 @@
  "The future of building happens together"
- # Hi there, I'm SNK 👋
+ # Hi there, I'm SNK 
 
 
 
@@ -64,4 +64,3 @@
   <img src="https://komarev.com/ghpvc/?username=snk-git-hub&style=flat-square&color=00B4D8" alt="Profile Views"/>
 </p>
 
-<p align="center">⚡ <em>"Make it work, make it right, make it fast." – Kent Beck</em></p>
