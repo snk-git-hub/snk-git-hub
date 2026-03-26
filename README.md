@@ -7,7 +7,7 @@
 
 ##  About Me
 
--  I'm currently working on **[your current project]**
+
 -  I'm exploring **[e.g., gRPC / WebSockets / Distributed Systems]**
 -  Ask me about **C++, backend architecture, APIs, and databases**
 -  Reach me at: **[shivanandu.dev@email.com]**
