@@ -5,11 +5,7 @@
 
 ---
 
-##  About Me
 
-
--  I'm exploring **[e.g., gRPC / WebSockets / Distributed Systems]**
--  Ask me about **C++, backend architecture, APIs, and databases**
 -  Reach me at: **[shivanandu.dev@email.com]**
 
 ---
