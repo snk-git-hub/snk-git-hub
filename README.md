@@ -7,12 +7,12 @@
 ---
 
 
-- 📄 Know about my experiences **[[https://drive.google.com/file/d/1Xs9va5U94uUXY0OE0E24hnwTnxQGNm4x/view?usp=sharing](https://drive.google.com/file/d/1Xs9va5U94uUXY0OE0E24hnwTnxQGNm4x/view?usp=sharing](https://drive.google.com/file/d/1Xs9va5U94uUXY0OE0E24hnwTnxQGNm4x/view))**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1Xs9va5U94uUXY0OE0E24hnwTnxQGNm4x/view?usp=sharing](https://drive.google.com/file/d/1Xs9va5U94uUXY0OE0E24hnwTnxQGNm4x/view?usp=sharing(https://drive.google.com/file/d/1Xs9va5U94uUXY0OE0E24hnwTnxQGNm4x/view))**
   
 
--  Reach me at: **[shivanandu.tec@email.com]**
+-  Reach me at: **shivanandu.tec@email.com**
 
--  Leetcode : **[https://leetcode.com/u/snk3811/]**
+-  Leetcode : **https://leetcode.com/u/snk3811/**
   
--  LinkedIn : **[https://www.linkedin.com/in/shivanandu-snk/]**
+-  LinkedIn : **https://www.linkedin.com/in/shivanandu-snk/**
 ---
