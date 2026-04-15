@@ -2,8 +2,7 @@
 # Hi , I'm shivanandu :)
 ### An experienced Backend developer
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1Xs9va5U94uUXY0OE0E24hnwTnxQGNm4x/view?usp=sharing](https://drive.google.com/file/d/1Xs9va5U94uUXY0OE0E24hnwTnxQGNm4x/view?usp=sharing](https://drive.google.com/file/d/1Xs9va5U94uUXY0OE0E24hnwTnxQGNm4x/view))**
-  
+
 
 -  Reach me at: **shivanandu.tec@email.com**
 
