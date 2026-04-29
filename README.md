@@ -1,8 +1,5 @@
  "The future of building happens together 🐈‍⬛"
-# Hi , I'm shivanandu :)
-### An experienced Backend developer
-
-
+# Hi , I'm snk :)
 
 -  Reach me at: **shivanandu.tec@email.com**
 
