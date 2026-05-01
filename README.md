@@ -1,9 +1,5 @@
  "The future of building happens together 🐈‍⬛"
 # Hi , I'm snk :)
-
--  Reach me at: **shivanandu.tec@email.com**
-
--  Leetcode : **https://leetcode.com/u/snk3811/**
-  
+-  Reach me at: **shivanandu.tec@email.com**  
 -  LinkedIn : **https://www.linkedin.com/in/shivanandu-snk/**
 ---
