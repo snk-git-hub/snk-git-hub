@@ -1,6 +1,11 @@
+# Hi, I'm SNK :)
+
+
  "The future of building happens together 🐈‍⬛"
-##  Skills
- "I write C without a safety net, on hardware without an OS, for devices without mercy."
+
+ 
+##  What I Know
+ 
 **Languages**
 `C` `Embedded C` `C++` `Assembly (ARM / RISC-V)` `Shell Scripting`
  
@@ -18,4 +23,17 @@
  
 **Concepts**
 `Bare Metal Programming` `RTOS` `POSIX Threads` `IPC` `Socket Programming` `Data Structures & Algorithms` `Assembly Programming` `Instruction Set Architecture` `RISC-V ISA`
-  
+ 
+**Hardware & Peripherals**
+`GPIO` `ADC` `Timers` `Counters` `Interrupts` `PWM` `EEPROM` `LCD Interfacing` `Sensor Interfacing`
+ 
+**Electronics**
+`Resistors` `Capacitors` `Transistors` `Amplifiers` `Oscillators` `PN Junction` `Op-Amp` `Series & Parallel Circuits`
+ 
+**Qt / GUI**
+`Qt Framework` `QML` `Qt Widgets` `Event Handling` `Multithreading` `Qt Multimedia` `RPi Deployment`
+
+<p align="center">
+ "I use fedora btw"
+</p>
+ 
