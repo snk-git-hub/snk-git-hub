@@ -1,6 +1,6 @@
  "The future of building happens together 🐈‍⬛"
 ##  Skills
-
+ "I write C without a safety net, on hardware without an OS, for devices without mercy."
 **Languages**
 `C` `Embedded C` `C++` `Assembly (ARM / RISC-V)` `Shell Scripting`
  
