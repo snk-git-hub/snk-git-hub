@@ -7,7 +7,7 @@
 ##  What I Know
  
 **Languages**
-`C` `Embedded C` `C++` `Assembly (ARM / RISC-V)` `Shell Scripting`
+`C` `Embedded C` `C++` `Assembly (ARM)` `Shell Scripting`
  
 
  
