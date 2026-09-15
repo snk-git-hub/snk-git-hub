@@ -11,10 +11,12 @@
 ### SHORT STORY
 
 *Currently trying to convince a microcontroller that it has feelings.*
+
 *Status: it does not. it just pulls GPIO pins and judges me silently.*
 
-*meanwhile, AI:*
-*"I can write your firmware for you"*
+*meanwhile,*
+
+AI:*"I can write your firmware for you"*
 
 *me:*
 *"cool, now go read a datasheet from 2003 written in broken english with no diagrams"*
