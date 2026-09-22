@@ -5,7 +5,6 @@
 
 <div>
   <img width="150" height="140" alt="crying anime" src="https://github.com/user-attachments/assets/123724c2-0c6b-498f-a2a0-0800ed2403e8"/>
-  <img width="150" height="140" alt="images (1)" src="https://github.com/user-attachments/assets/d450c6c4-afda-46b2-81e2-1a1faca2bfcd"/>
 </div>
 
 ### SHORT STORY
