@@ -5,10 +5,4 @@
 
 
 
-### welcome!
-
-<img src="https://anime-counter.lulushu.workers.dev/@snk-git-hub?scale=0.30&theme=onepiece&length=5" alt="Counter" />
-
-
-
 
